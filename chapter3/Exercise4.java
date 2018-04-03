@@ -15,7 +15,7 @@ public class Exercise4 {
         float t = 3.6f;
         System.out.println("Distance: " + d);
         System.out.println("Time: " + t);
-    float v = VelocityCalculator.velocity(d, t);
+        float v = VelocityCalculator.velocity(d, t);
         System.out.println("Velocity: " + v);
-}
+    }
 }

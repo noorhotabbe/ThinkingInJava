@@ -1,4 +1,3 @@
-package com.pyk.chapter3;
 // show the hex and octal notations work with long values.
 // use Long.toBinaryString to display the results.
 public class Exercise8 {
